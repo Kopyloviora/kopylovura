@@ -1,0 +1,45 @@
+body{
+	background: url("C:/Users/Юрий/Desktop/sait/img/img2.jpg");
+	font-family: tahoma;
+	line-height: 1.5;
+	font-size: 20px;
+	margin: 0;
+}
+
+.card{
+	width: 400px;
+	margin: 30px auto;
+	background-color: #fff;
+	box-shadow: 0 5px 10px #ccc;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+.card-photo{
+	display: block;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+.card-title{
+	font-size: 20px;
+	text-align: center;
+	color: blueviolet;
+}
+.card-text{
+	font-size: 14px;
+	font-family: arial;
+}
+
+.card-subtitle{
+	font-size: 19px;
+	text-align: center;
+	color: blueviolet;
+}
+
+.card-list {
+	padding-left: 0;
+	list-style-position: inside;
+	font-size: 14px;
+}
